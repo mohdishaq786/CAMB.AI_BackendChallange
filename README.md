@@ -1,6 +1,6 @@
 # CAMB.AI_BackendChallange
 
-## first run Requirement.txt file 
+## First run Requirement.txt file 
 
 ## Run commands
 
@@ -43,4 +43,12 @@ when use  run all command then on browser and hit `localhost/redoc`
 
 ## Images
 #post
-![Alt text](Screenshot%20(11).png)
+![Alt text](Screenshot%202024-03-06%20032911.png)
+
+#get
+![Alt text](Screenshot%202024-03-06%20033254.png)
+
+##FOR DETAIL PLEASE READ DOCUMENTATION FILE
+
+## Note
+ - Take the assumption for Redis data type in this application  I accept string at this time.
