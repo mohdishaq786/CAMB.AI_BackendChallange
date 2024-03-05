@@ -23,5 +23,24 @@
 - `DELETE/apis/v1/delete`:delete the key form store
 
 ## Some Img of FastApi redoc
+when use  run all command then on browser and hit `localhost/redoc`
+
+# POST REQUEST
+![Alt text](Screenshot%20(11).png)
+
+# GET REQUEST
+![Alt text](Screenshot%202024-03-06%20031010.png)
+
+# DELETE REQUEST
+![Alt text](Screenshot%202024-03-06%20031107.png)
 
 
+## Test Api endpoints with Postman
+- URL for `http://localhost/apis/v1/ `
+- add key-value `http://localhost/apis/v1/store`
+- Fetch value `http://localhost/apis/v1/retrieve`
+- Delete key `http://localhost/apis/v1/delete` 
+
+## Images
+#post
+![Alt text](Screenshot%20(11).png)
