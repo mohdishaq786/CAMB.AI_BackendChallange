@@ -1,6 +1,6 @@
 # CAMB.AI_BackendChallange
 
-## First run Requirement.txt file 
+## First run  pip install -r requirement.txt file 
 
 ## Run commands
 
