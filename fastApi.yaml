@@ -28,4 +28,4 @@ spec:
     - port: 80
       targetPort: 8080
   selector:
-    app: fastapi # Corrected this line to properly match the labels of the pods created by the deployment
+    app: fastapi 
