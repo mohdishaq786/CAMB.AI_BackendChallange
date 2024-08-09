@@ -20,7 +20,7 @@
 
 - `POST/apis/v1/store`:store key value in redis and run asyn task in hueyss
 
-- `POST/apis/v1/store`:store key value in redis and run asyn task in hueyss
+- `POST/apis/v1/store`:store key value in redis and run asyn task in hueys
 - `GET/apis/v1/retrieve`:retrieve value form the store of given key
 - `DELETE/apis/v1/delete`:delete the key form store
 
